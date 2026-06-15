@@ -8,7 +8,7 @@ Feedforward Neural Network (FNN).
 Requirements:
     !pip install matplotlib numpy pandas seaborn scikit-learn
 
-Author: Nyanjui
+Author: abdullahi haji
 Date: 15 June 2026
 """""
 
